@@ -13,6 +13,7 @@ public class demorunTest {
 		driver.manage().window();
 		System.out.println(driver.getTitle());
 		driver.close();
+		//It is our demo
 
 
 		
